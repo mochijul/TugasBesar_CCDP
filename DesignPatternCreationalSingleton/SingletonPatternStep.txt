@@ -1,0 +1,4 @@
+Langkah Pembuatan Program :
+1. Interface MediaPlayer.java
+2. Class VideoPlayer.java
+3. Class SingletonDemo.Java

@@ -1,0 +1,4 @@
+1. Class NewVideo.java
+2. Abstract class Observer.java
+3. Class EmailNotifObserver.java  dan PushNotifObserver.java
+4. Class ObserverPatternDemo.java Untuk demo program

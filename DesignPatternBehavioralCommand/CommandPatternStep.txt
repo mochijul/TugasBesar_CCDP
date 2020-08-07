@@ -1,0 +1,7 @@
+Langkah Pembuatan Program :
+1. Command Interface Command.java
+2. Invoker Class Button.java
+3. Receiver Class Video.java
+4. Concrete Command Class PlayVideo.java
+5. Concrete Command Class PauseVideo.java
+6. Test Class CommandDemo.java

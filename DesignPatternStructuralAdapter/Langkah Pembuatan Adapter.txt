@@ -1,0 +1,6 @@
+Langkah pembuatan Adapter  :
+1. Interface MediaPlayer.java dan AdvancedMediaPlayer.java
+2. Class Mp4Player.java
+3. Class MediaAdapter.java
+4. Class VideoPlayer.java
+5. Test program AdapterDemo.java

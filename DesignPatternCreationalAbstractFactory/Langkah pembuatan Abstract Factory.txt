@@ -1,0 +1,6 @@
+1. Interface Deskripsi.java
+2. Class Judul.java, Video.java, GameDeskripsi.java dan MusicDeskripsi.java
+3. Interface VideoFactory.java
+4. Class MusicVideo.java dan GameVideo.java
+5. Class UploadVideo.java
+6. Test program Demo.java

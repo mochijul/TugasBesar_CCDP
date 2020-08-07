@@ -1,0 +1,5 @@
+Langkah pembuatan Prototype  :
+1. Class User.java
+2. Class Video1.java, Video2.java, dan Video3.java
+3. Class UserCache.java
+4. Test program PrototypeDemo.java

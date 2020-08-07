@@ -1,0 +1,7 @@
+Langkah Pembuatan Program :
+1. Interface Video.java
+2. Component Implementation JudulVideo.java
+3. Decorator Class VideoDecorator.java
+4. Concrete Class Thumbnail.java
+5. Concrete Class Subtitle.java
+6. Class DecoratorDemo.java

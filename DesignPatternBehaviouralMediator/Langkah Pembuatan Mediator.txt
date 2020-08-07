@@ -1,0 +1,4 @@
+Langkah pembuatan Behavioral  :
+1. Class RoomChat.java
+2. Class Pengguna.java
+3. Test program MediatorDemo.java
